@@ -1,4 +1,4 @@
-## Hi there, I'm a CS student in HCMUT 👋
+## Hi there, I'm just a CS student in HCMUT 👋
 
 <!--
 **kurukuru-cse/kurukuru-cse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
